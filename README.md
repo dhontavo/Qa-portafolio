@@ -42,7 +42,7 @@ Sólidos conocimientos de entornos de desarrollo (.NET, Angular), lo que permite
 
 ------------
 
-##Proyecto
+## Proyecto
 ### Manual tester
 ##### PBTimeShare, PBAdmin, PBResortManager (Reingeniería)
 - Testeo funcional
